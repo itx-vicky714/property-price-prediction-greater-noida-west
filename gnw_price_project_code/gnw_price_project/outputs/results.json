@@ -1,0 +1,273 @@
+{
+  "n_rows": 600,
+  "raw_missing": {
+    "property_id": 0,
+    "locality": 0,
+    "bhk": 0,
+    "area_sqft": 0,
+    "floor": 0,
+    "age_years": 0,
+    "amenities_score": 8,
+    "furnishing": 0,
+    "metro_km": 12,
+    "price_lakh": 0
+  },
+  "best": "Linear Regression",
+  "results": {
+    "Linear Regression": {
+      "R2": 0.977,
+      "MAE": 3.17,
+      "RMSE": 4.32,
+      "MAPE": 5.24
+    },
+    "Random Forest": {
+      "R2": 0.9625,
+      "MAE": 4.11,
+      "RMSE": 5.53,
+      "MAPE": 5.88
+    }
+  },
+  "summary": [
+    [
+      "count",
+      600.0,
+      600.0,
+      600.0,
+      600.0,
+      600.0
+    ],
+    [
+      "mean",
+      1258.85,
+      73.16,
+      5812.78,
+      5.47,
+      4.89
+    ],
+    [
+      "std",
+      412.08,
+      25.97,
+      789.18,
+      3.5,
+      1.79
+    ],
+    [
+      "min",
+      450.0,
+      21.01,
+      4006.99,
+      0.0,
+      1.1
+    ],
+    [
+      "25%",
+      974.0,
+      55.33,
+      5261.8,
+      2.0,
+      3.5
+    ],
+    [
+      "50%",
+      1137.5,
+      68.69,
+      5797.44,
+      5.0,
+      4.7
+    ],
+    [
+      "75%",
+      1504.75,
+      87.63,
+      6334.99,
+      9.0,
+      6.4
+    ],
+    [
+      "max",
+      2491.0,
+      159.52,
+      8063.21,
+      11.0,
+      9.0
+    ]
+  ],
+  "summary_cols": [
+    "stat",
+    "area_sqft",
+    "price_lakh",
+    "price_per_sqft",
+    "age_years",
+    "metro_km"
+  ],
+  "loc_stats": [
+    [
+      "Sector 4",
+      65,
+      86.3,
+      6929.9
+    ],
+    [
+      "Techzone-4",
+      84,
+      81.9,
+      6578.9
+    ],
+    [
+      "Gaur City 2",
+      73,
+      72.1,
+      5971.1
+    ],
+    [
+      "Sector 1",
+      75,
+      74.0,
+      5958.6
+    ],
+    [
+      "Sector 16B",
+      64,
+      73.1,
+      5852.1
+    ],
+    [
+      "Gaur City 1",
+      80,
+      74.0,
+      5587.9
+    ],
+    [
+      "Sector 10",
+      80,
+      65.5,
+      5101.5
+    ],
+    [
+      "Sector 12",
+      79,
+      60.1,
+      4710.4
+    ]
+  ],
+  "bhk_stats": [
+    [
+      1.0,
+      42.0,
+      550.4,
+      31.6
+    ],
+    [
+      2.0,
+      271.0,
+      1001.6,
+      58.6
+    ],
+    [
+      3.0,
+      236.0,
+      1481.2,
+      85.5
+    ],
+    [
+      4.0,
+      51.0,
+      2180.4,
+      127.8
+    ]
+  ],
+  "furn_stats": {
+    "Furnished": 5966.0,
+    "Semi-Furnished": 5850.0,
+    "Unfurnished": 5712.0
+  },
+  "corr_price": {
+    "area_sqft": 0.92,
+    "bhk": 0.88,
+    "floor": 0.03,
+    "age_years": -0.13,
+    "amenities_score": 0.09,
+    "metro_km": -0.29,
+    "price_per_sqft": 0.37,
+    "price_lakh": 1.0
+  },
+  "corr_rate": {
+    "area_sqft": -0.0,
+    "bhk": -0.0,
+    "floor": 0.07,
+    "age_years": -0.31,
+    "amenities_score": 0.24,
+    "metro_km": -0.78,
+    "price_per_sqft": 1.0,
+    "price_lakh": 0.37
+  },
+  "importance": {
+    "Area (sq ft)": 81.2,
+    "Metro distance": 8.9,
+    "BHK": 4.4,
+    "Locality": 2.0,
+    "Property age": 1.4,
+    "Amenities": 0.9,
+    "Floor": 0.7,
+    "Furnishing": 0.4
+  },
+  "age_rate": {
+    "0": 6247,
+    "1": 6148,
+    "2": 6026,
+    "3": 5786,
+    "4": 5922,
+    "5": 5956,
+    "6": 5759,
+    "7": 5666,
+    "8": 5824,
+    "9": 5497,
+    "10": 5399,
+    "11": 5456
+  },
+  "metro_rate": {
+    "<3": 6746,
+    "3-5": 5988,
+    "5-7": 5562,
+    ">7": 4815
+  },
+  "samples": [
+    [
+      "Techzone-4",
+      3,
+      1450,
+      12,
+      2,
+      8,
+      "Semi-Furnished",
+      3.0,
+      98.0
+    ],
+    [
+      "Sector 12",
+      2,
+      1000,
+      8,
+      5,
+      6,
+      "Unfurnished",
+      7.5,
+      41.7
+    ],
+    [
+      "Sector 4",
+      2,
+      1100,
+      15,
+      1,
+      9,
+      "Furnished",
+      2.5,
+      87.1
+    ]
+  ],
+  "mean_price": 73.2,
+  "median_price": 68.7,
+  "mean_rate": 5813
+}

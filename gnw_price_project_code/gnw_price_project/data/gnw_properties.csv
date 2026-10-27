@@ -1,0 +1,601 @@
+property_id,locality,bhk,area_sqft,floor,age_years,amenities_score,furnishing,metro_km,price_lakh
+GNW1000,Gaur City 1,2,1082,11,10,3.0,Unfurnished,3.7,54.27
+GNW1001,Sector 12,3,1480,4,10,6.0,Unfurnished,8.0,62.01
+GNW1002,Sector 16B,2,1096,12,2,3.0,Unfurnished,6.0,61.79
+GNW1003,Sector 10,3,1565,9,0,10.0,Furnished,6.7,90.44
+GNW1004,Techzone-4,1,543,14,1,8.0,Semi-Furnished,2.8,38.17
+GNW1005,Sector 12,2,872,12,9,4.0,Unfurnished,7.0,36.34
+GNW1006,Sector 10,2,1050,5,9,8.0,Unfurnished,6.6,50.14
+GNW1007,Sector 12,2,1119,8,2,8.0,Unfurnished,7.9,53.49
+GNW1008,Sector 1,3,1604,12,8,5.0,Semi-Furnished,3.6,91.52
+GNW1009,Sector 1,2,981,17,7,6.0,Semi-Furnished,3.8,58.65
+GNW1010,Sector 10,3,1499,20,3,7.0,Unfurnished,7.5,75.54
+GNW1011,Gaur City 1,3,1265,6,9,3.0,Unfurnished,4.6,63.67
+GNW1012,Gaur City 2,3,1500,25,7,6.0,Furnished,4.6,92.92
+GNW1013,Sector 16B,2,1081,19,8,6.0,Unfurnished,5.5,61.3
+GNW1014,Sector 16B,2,1058,5,4,4.0,Semi-Furnished,4.5,58.37
+GNW1015,Techzone-4,2,951,25,4,10.0,Semi-Furnished,2.8,71.22
+GNW1016,Techzone-4,3,1600,20,5,8.0,Unfurnished,2.8,109.34
+GNW1017,Techzone-4,2,1066,8,9,7.0,Unfurnished,2.1,66.07
+GNW1018,Sector 16B,2,1065,8,7,4.0,Semi-Furnished,4.9,60.74
+GNW1019,Sector 10,1,485,13,2,5.0,Unfurnished,7.9,22.85
+GNW1020,Sector 1,4,2002,25,6,6.0,Semi-Furnished,3.9,113.05
+GNW1021,Techzone-4,2,990,20,0,3.0,Semi-Furnished,4.7,66.63
+GNW1022,Gaur City 2,2,1021,21,3,10.0,Semi-Furnished,4.6,67.47
+GNW1023,Techzone-4,3,1254,23,6,4.0,Semi-Furnished,2.0,80.77
+GNW1024,Gaur City 1,3,1376,19,8,10.0,Unfurnished,4.2,73.05
+GNW1025,Sector 1,1,478,14,6,5.0,Furnished,4.5,27.98
+GNW1026,Gaur City 2,2,1135,16,6,10.0,Furnished,5.3,73.34
+GNW1027,Techzone-4,2,1140,25,1,10.0,Semi-Furnished,3.1,83.12
+GNW1028,Gaur City 1,2,1005,1,9,5.0,Unfurnished,4.8,52.57
+GNW1029,Sector 12,2,851,24,11,4.0,Unfurnished,8.5,34.8
+GNW1030,Sector 12,3,1330,18,10,3.0,Unfurnished,7.9,54.56
+GNW1031,Gaur City 2,3,1445,4,11,3.0,Unfurnished,5.1,76.0
+GNW1032,Sector 4,3,1304,24,8,9.0,Unfurnished,2.3,92.16
+GNW1033,Sector 10,3,1621,4,5,3.0,Furnished,6.7,80.32
+GNW1034,Gaur City 2,3,1469,8,11,7.0,Furnished,4.9,87.57
+GNW1035,Techzone-4,3,1628,3,8,4.0,Unfurnished,4.5,99.7
+GNW1036,Gaur City 2,3,1669,11,5,8.0,Unfurnished,5.7,95.78
+GNW1037,Sector 1,3,1458,6,4,7.0,Semi-Furnished,3.7,85.48
+GNW1038,Gaur City 1,3,1543,7,5,7.0,Unfurnished,3.8,90.9
+GNW1039,Gaur City 2,2,1114,2,5,7.0,Unfurnished,6.0,60.54
+GNW1040,Sector 4,4,1986,15,1,4.0,Unfurnished,1.7,138.44
+GNW1041,Techzone-4,1,488,5,9,3.0,Semi-Furnished,3.6,29.02
+GNW1042,Sector 1,3,1393,19,10,9.0,Unfurnished,3.9,85.97
+GNW1043,Sector 1,3,1676,11,3,,Unfurnished,4.2,90.66
+GNW1044,Gaur City 1,1,616,11,11,8.0,Furnished,4.8,32.63
+GNW1045,Gaur City 1,3,1510,20,7,8.0,Semi-Furnished,4.4,85.36
+GNW1046,Techzone-4,3,1481,21,5,9.0,Semi-Furnished,3.2,100.78
+GNW1047,Sector 16B,2,899,11,7,4.0,Unfurnished,6.0,47.75
+GNW1048,Sector 16B,3,1420,6,3,9.0,Furnished,6.5,93.84
+GNW1049,Sector 4,3,1682,22,5,8.0,Furnished,2.3,127.18
+GNW1050,Gaur City 1,3,1379,1,2,7.0,Furnished,4.5,85.89
+GNW1051,Sector 12,2,1036,19,6,3.0,Furnished,7.5,47.01
+GNW1052,Gaur City 2,3,1610,12,9,10.0,Furnished,5.0,96.93
+GNW1053,Sector 1,2,1006,16,2,4.0,Semi-Furnished,4.4,55.53
+GNW1054,Sector 12,3,1485,24,9,7.0,Semi-Furnished,7.1,71.11
+GNW1055,Sector 16B,2,1066,3,5,,Unfurnished,5.2,63.09
+GNW1056,Sector 12,3,1400,21,9,8.0,Unfurnished,,62.97
+GNW1057,Techzone-4,2,875,24,6,6.0,Unfurnished,3.9,53.13
+GNW1058,Sector 4,3,1671,16,5,4.0,Furnished,,122.63
+GNW1059,Sector 16B,2,931,22,10,8.0,Unfurnished,6.5,49.88
+GNW1060,Sector 10,2,853,19,9,6.0,Semi-Furnished,6.5,43.02
+GNW1061,Techzone-4,4,2342,20,6,3.0,Furnished,3.0,152.13
+GNW1062,Sector 1,2,1101,17,11,3.0,Semi-Furnished,4.5,59.83
+GNW1063,Sector 12,1,499,7,5,4.0,Semi-Furnished,8.0,22.32
+GNW1064,Techzone-4,1,581,1,0,4.0,Semi-Furnished,2.2,36.77
+GNW1065,Gaur City 1,3,1360,2,8,9.0,Furnished,4.6,80.71
+GNW1066,Sector 1,1,617,12,2,3.0,Semi-Furnished,4.8,36.58
+GNW1067,Gaur City 1,3,1451,4,9,8.0,Unfurnished,4.3,77.88
+GNW1068,Sector 10,3,1691,13,0,3.0,Unfurnished,6.9,78.85
+GNW1069,Sector 10,2,961,3,9,4.0,Furnished,6.6,47.32
+GNW1070,Techzone-4,3,1536,12,1,4.0,Unfurnished,2.1,106.01
+GNW1071,Sector 4,3,1449,24,1,4.0,Semi-Furnished,2.7,112.36
+GNW1072,Gaur City 2,2,885,24,3,3.0,Unfurnished,5.2,51.4
+GNW1073,Techzone-4,2,896,11,10,4.0,Semi-Furnished,2.3,54.14
+GNW1074,Techzone-4,2,975,4,2,3.0,Semi-Furnished,2.8,62.54
+GNW1075,Sector 10,3,1527,8,2,9.0,Semi-Furnished,6.3,83.73
+GNW1076,Sector 10,3,1412,21,8,7.0,Furnished,7.0,73.24
+GNW1077,Sector 4,3,1360,8,6,9.0,Semi-Furnished,2.9,98.31
+GNW1078,Sector 1,1,618,2,3,7.0,Unfurnished,4.6,32.91
+GNW1079,Techzone-4,1,537,21,8,9.0,Unfurnished,3.5,33.25
+GNW1080,Sector 12,2,885,13,11,3.0,Semi-Furnished,7.2,38.89
+GNW1081,Sector 4,3,1588,10,11,8.0,Unfurnished,3.0,101.8
+GNW1082,Sector 16B,2,899,11,10,10.0,Semi-Furnished,,55.91
+GNW1083,Sector 4,2,1000,12,10,6.0,Unfurnished,2.6,63.99
+GNW1084,Sector 16B,2,990,8,2,4.0,Unfurnished,4.6,58.9
+GNW1085,Sector 4,2,1148,15,8,6.0,Unfurnished,1.5,74.07
+GNW1086,Sector 1,3,1536,11,8,9.0,Unfurnished,3.4,91.93
+GNW1087,Sector 1,2,1129,22,3,6.0,Semi-Furnished,5.2,68.25
+GNW1088,Sector 16B,3,1659,4,10,6.0,Semi-Furnished,5.2,87.98
+GNW1089,Techzone-4,2,1149,23,7,8.0,Unfurnished,3.5,75.45
+GNW1090,Techzone-4,4,1914,18,5,6.0,Semi-Furnished,3.0,129.41
+GNW1091,Techzone-4,3,1486,16,8,10.0,Semi-Furnished,3.7,98.32
+GNW1092,Sector 12,3,1656,8,11,7.0,Furnished,7.9,81.79
+GNW1093,Sector 1,2,1044,14,11,8.0,Furnished,3.3,63.81
+GNW1094,Sector 1,3,1580,16,4,3.0,Unfurnished,3.7,88.38
+GNW1095,Gaur City 1,4,2415,12,3,10.0,Unfurnished,4.2,148.69
+GNW1096,Gaur City 2,3,1499,7,11,6.0,Unfurnished,4.0,83.83
+GNW1097,Sector 1,2,1129,17,9,8.0,Semi-Furnished,3.5,63.93
+GNW1098,Sector 16B,1,610,23,2,3.0,Furnished,5.5,38.3
+GNW1099,Sector 10,3,1488,1,9,6.0,Furnished,7.8,68.72
+GNW1100,Sector 16B,2,1105,20,10,10.0,Semi-Furnished,5.3,64.88
+GNW1101,Techzone-4,3,1639,5,8,3.0,Unfurnished,2.1,99.51
+GNW1102,Sector 10,2,1149,20,4,7.0,Semi-Furnished,6.0,62.13
+GNW1103,Gaur City 2,4,2031,13,4,4.0,Unfurnished,4.3,122.26
+GNW1104,Sector 10,2,855,25,7,10.0,Unfurnished,6.0,44.13
+GNW1105,Techzone-4,3,1691,8,4,10.0,Unfurnished,2.0,117.25
+GNW1106,Techzone-4,3,1488,6,7,7.0,Unfurnished,2.2,96.61
+GNW1107,Sector 12,2,954,22,0,5.0,Semi-Furnished,7.7,47.49
+GNW1108,Sector 12,2,981,24,11,7.0,Furnished,7.2,45.6
+GNW1109,Sector 12,2,901,15,3,3.0,Semi-Furnished,7.2,43.55
+GNW1110,Sector 4,1,536,24,11,8.0,Unfurnished,1.1,34.17
+GNW1111,Gaur City 1,2,929,13,9,5.0,Unfurnished,3.9,48.09
+GNW1112,Sector 1,3,1277,12,2,10.0,Unfurnished,4.4,79.38
+GNW1113,Techzone-4,2,974,22,1,3.0,Semi-Furnished,2.3,62.4
+GNW1114,Sector 16B,3,1444,12,10,7.0,Unfurnished,4.1,75.87
+GNW1115,Techzone-4,3,1400,6,8,5.0,Furnished,2.3,87.38
+GNW1116,Sector 1,2,1063,16,0,5.0,Furnished,4.1,71.98
+GNW1117,Gaur City 2,1,480,3,8,7.0,Unfurnished,5.7,25.35
+GNW1118,Sector 12,1,619,8,10,7.0,Unfurnished,7.3,25.89
+GNW1119,Sector 10,2,924,23,6,6.0,Semi-Furnished,8.1,48.13
+GNW1120,Sector 12,2,1093,14,9,3.0,Unfurnished,7.9,47.35
+GNW1121,Sector 10,1,622,1,8,5.0,Unfurnished,6.7,26.89
+GNW1122,Sector 1,3,1568,21,3,3.0,Semi-Furnished,4.0,94.48
+GNW1123,Sector 4,3,1277,5,9,7.0,Furnished,2.5,87.55
+GNW1124,Sector 10,3,1696,10,1,7.0,Furnished,6.9,90.75
+GNW1125,Sector 4,2,1066,2,5,7.0,Unfurnished,2.7,65.3
+GNW1126,Gaur City 2,3,1258,4,2,9.0,Unfurnished,4.5,74.6
+GNW1127,Sector 1,2,1075,17,6,8.0,Semi-Furnished,3.9,62.76
+GNW1128,Gaur City 2,3,1438,24,0,3.0,Semi-Furnished,4.7,88.46
+GNW1129,Sector 1,3,1545,10,1,8.0,Unfurnished,3.3,94.43
+GNW1130,Sector 12,3,1339,25,10,4.0,Semi-Furnished,6.4,60.54
+GNW1131,Gaur City 2,2,973,13,1,8.0,Semi-Furnished,5.2,67.52
+GNW1132,Sector 16B,4,1962,18,10,9.0,Unfurnished,6.4,116.5
+GNW1133,Sector 1,1,492,25,11,6.0,Semi-Furnished,3.9,27.93
+GNW1134,Sector 12,3,1393,15,6,6.0,Semi-Furnished,7.3,65.2
+GNW1135,Sector 16B,2,951,10,4,6.0,Unfurnished,5.7,55.39
+GNW1136,Gaur City 1,4,2103,19,2,4.0,Semi-Furnished,4.6,117.5
+GNW1137,Gaur City 1,2,1142,5,5,7.0,Semi-Furnished,4.5,64.69
+GNW1138,Gaur City 1,4,2188,7,7,8.0,Unfurnished,4.5,116.14
+GNW1139,Sector 16B,3,1385,22,9,10.0,Furnished,4.8,83.19
+GNW1140,Sector 10,2,871,24,3,4.0,Unfurnished,6.0,42.43
+GNW1141,Sector 10,3,1484,5,0,5.0,Unfurnished,7.6,71.77
+GNW1142,Sector 10,2,1070,22,4,9.0,Semi-Furnished,6.9,61.53
+GNW1143,Sector 16B,4,2145,4,2,10.0,Unfurnished,5.5,124.3
+GNW1144,Sector 10,2,903,2,5,4.0,Semi-Furnished,7.7,45.58
+GNW1145,Gaur City 2,3,1573,7,3,4.0,Unfurnished,4.5,92.07
+GNW1146,Gaur City 1,3,1599,8,5,6.0,Semi-Furnished,,89.74
+GNW1147,Sector 10,2,904,24,1,6.0,Furnished,7.2,51.59
+GNW1148,Sector 4,2,912,22,0,6.0,Furnished,3.0,71.58
+GNW1149,Gaur City 1,2,1141,11,6,7.0,Unfurnished,2.7,64.83
+GNW1150,Sector 1,2,1072,21,1,9.0,Unfurnished,3.6,71.95
+GNW1151,Sector 4,3,1545,16,0,9.0,Semi-Furnished,3.5,118.22
+GNW1152,Sector 10,3,1447,19,0,7.0,Unfurnished,6.6,80.17
+GNW1153,Sector 4,2,980,4,9,8.0,Unfurnished,2.9,60.02
+GNW1154,Sector 16B,2,1067,8,7,8.0,Semi-Furnished,5.8,58.53
+GNW1155,Sector 10,2,877,17,11,9.0,Unfurnished,6.2,43.04
+GNW1156,Sector 12,4,2349,12,6,9.0,Unfurnished,8.4,116.2
+GNW1157,Sector 12,3,1427,11,10,7.0,Semi-Furnished,7.6,64.9
+GNW1158,Techzone-4,3,1438,11,4,8.0,Unfurnished,3.0,96.03
+GNW1159,Sector 16B,3,1309,17,8,8.0,Unfurnished,4.8,79.9
+GNW1160,Gaur City 2,3,1600,19,2,10.0,Unfurnished,4.8,101.64
+GNW1161,Sector 12,2,934,17,10,10.0,Unfurnished,7.9,38.75
+GNW1162,Sector 1,3,1678,19,3,5.0,Unfurnished,4.7,98.39
+GNW1163,Sector 12,3,1495,1,6,6.0,Furnished,8.1,68.48
+GNW1164,Gaur City 2,3,1671,9,3,9.0,Semi-Furnished,5.1,103.65
+GNW1165,Sector 10,2,970,23,11,10.0,Furnished,7.3,47.78
+GNW1166,Sector 4,3,1594,3,5,8.0,Unfurnished,2.6,108.66
+GNW1167,Sector 16B,2,988,15,4,6.0,Unfurnished,5.2,60.57
+GNW1168,Sector 10,1,483,1,4,6.0,Furnished,7.0,24.88
+GNW1169,Sector 1,2,884,10,5,10.0,Unfurnished,4.1,55.91
+GNW1170,Sector 16B,4,2271,8,11,8.0,Unfurnished,5.8,121.82
+GNW1171,Gaur City 1,3,1350,17,5,3.0,Furnished,4.9,75.62
+GNW1172,Sector 10,3,1498,8,8,9.0,Furnished,7.7,82.33
+GNW1173,Sector 12,3,1303,25,3,5.0,Semi-Furnished,7.9,64.4
+GNW1174,Techzone-4,2,1051,9,9,8.0,Furnished,3.8,71.4
+GNW1175,Sector 1,3,1571,21,2,6.0,Furnished,4.1,102.45
+GNW1176,Sector 4,2,878,8,6,5.0,Unfurnished,2.5,55.38
+GNW1177,Gaur City 1,3,1294,1,4,8.0,Furnished,4.4,75.55
+GNW1178,Gaur City 1,3,1637,14,6,6.0,Unfurnished,4.4,93.14
+GNW1179,Sector 1,2,948,19,2,7.0,Semi-Furnished,5.0,53.6
+GNW1180,Sector 16B,2,915,17,9,10.0,Unfurnished,5.3,55.06
+GNW1181,Gaur City 1,3,1277,10,8,10.0,Unfurnished,4.2,72.1
+GNW1182,Sector 4,3,1426,24,11,10.0,Unfurnished,1.8,94.23
+GNW1183,Sector 1,2,925,19,0,7.0,Semi-Furnished,5.5,62.61
+GNW1184,Sector 16B,1,455,24,7,5.0,Unfurnished,4.9,25.51
+GNW1185,Sector 16B,3,1406,15,1,6.0,Unfurnished,5.8,79.91
+GNW1186,Sector 16B,3,1503,22,0,5.0,Unfurnished,5.3,92.26
+GNW1187,Gaur City 1,2,1101,23,1,6.0,Semi-Furnished,4.3,67.89
+GNW1188,Techzone-4,3,1346,12,2,5.0,Unfurnished,2.4,84.02
+GNW1189,Sector 12,2,1006,5,0,4.0,Furnished,7.1,49.36
+GNW1190,Gaur City 2,2,866,9,3,10.0,Unfurnished,4.9,52.55
+GNW1191,Sector 10,2,1075,3,0,3.0,Semi-Furnished,6.3,58.18
+GNW1192,Sector 4,3,1589,18,6,4.0,Unfurnished,2.8,106.63
+GNW1193,Sector 4,4,1951,15,10,9.0,Unfurnished,1.8,124.74
+GNW1194,Sector 10,4,2196,24,4,9.0,Semi-Furnished,7.0,121.22
+GNW1195,Sector 16B,2,1144,3,9,9.0,Semi-Furnished,6.5,62.84
+GNW1196,Sector 16B,3,1444,10,11,9.0,Unfurnished,4.6,83.5
+GNW1197,Sector 4,3,1422,12,3,8.0,Semi-Furnished,2.1,108.38
+GNW1198,Gaur City 1,2,963,8,1,7.0,Unfurnished,5.0,53.3
+GNW1199,Sector 12,3,1489,7,6,9.0,Furnished,7.9,75.61
+GNW1200,Sector 4,4,1931,22,4,3.0,Semi-Furnished,2.5,129.89
+GNW1201,Sector 4,3,1661,15,0,3.0,Semi-Furnished,1.2,112.6
+GNW1202,Gaur City 2,1,543,15,9,10.0,Furnished,6.2,35.02
+GNW1203,Techzone-4,2,1051,5,5,9.0,Semi-Furnished,3.2,72.9
+GNW1204,Gaur City 1,3,1683,22,2,10.0,Furnished,3.2,113.31
+GNW1205,Sector 10,2,923,15,7,10.0,Semi-Furnished,7.7,42.67
+GNW1206,Gaur City 2,2,975,23,9,4.0,Unfurnished,5.3,57.3
+GNW1207,Sector 1,1,638,14,6,6.0,Semi-Furnished,3.5,37.58
+GNW1208,Gaur City 1,3,1419,4,0,7.0,Semi-Furnished,3.5,84.98
+GNW1209,Sector 16B,2,997,9,2,3.0,Furnished,5.7,61.64
+GNW1210,Sector 16B,2,1142,15,7,10.0,Semi-Furnished,5.0,71.95
+GNW1211,Sector 1,1,490,14,4,10.0,Furnished,4.2,31.53
+GNW1212,Sector 10,4,2081,10,0,5.0,Furnished,7.2,122.98
+GNW1213,Sector 4,2,1066,14,0,10.0,Semi-Furnished,2.3,82.33
+GNW1214,Sector 4,4,1937,8,3,9.0,Unfurnished,1.8,145.76
+GNW1215,Gaur City 2,3,1307,18,6,,Furnished,5.2,79.72
+GNW1216,Sector 12,3,1307,8,6,6.0,Furnished,8.4,65.2
+GNW1217,Sector 10,2,986,12,10,6.0,Unfurnished,7.1,47.77
+GNW1218,Sector 12,3,1284,19,5,4.0,Semi-Furnished,7.2,61.77
+GNW1219,Sector 4,2,934,25,9,4.0,Semi-Furnished,2.8,57.65
+GNW1220,Gaur City 1,1,497,9,1,10.0,Unfurnished,4.9,29.44
+GNW1221,Gaur City 1,3,1547,16,9,4.0,Furnished,5.8,77.98
+GNW1222,Sector 10,2,1134,3,1,6.0,Unfurnished,7.6,56.15
+GNW1223,Gaur City 2,3,1305,14,5,4.0,Unfurnished,5.1,72.26
+GNW1224,Gaur City 2,2,980,20,8,10.0,Furnished,4.4,61.8
+GNW1225,Gaur City 2,2,1009,13,0,7.0,Unfurnished,3.2,62.37
+GNW1226,Sector 10,2,993,25,0,8.0,Unfurnished,6.9,54.0
+GNW1227,Sector 10,4,1910,12,5,10.0,Semi-Furnished,6.8,104.67
+GNW1228,Sector 12,3,1541,23,5,6.0,Furnished,7.6,82.34
+GNW1229,Sector 12,3,1600,17,11,10.0,Unfurnished,7.8,74.58
+GNW1230,Techzone-4,3,1477,13,5,7.0,Semi-Furnished,3.1,103.73
+GNW1231,Gaur City 2,3,1301,19,2,10.0,Unfurnished,6.3,76.73
+GNW1232,Sector 1,2,896,10,3,5.0,Furnished,4.2,57.72
+GNW1233,Sector 10,2,1075,9,9,6.0,Unfurnished,7.1,48.55
+GNW1234,Sector 16B,3,1307,21,8,4.0,Semi-Furnished,5.7,70.16
+GNW1235,Gaur City 1,3,1342,12,5,9.0,Unfurnished,5.3,75.42
+GNW1236,Gaur City 2,2,990,18,2,10.0,Unfurnished,5.1,63.57
+GNW1237,Sector 1,2,1060,8,10,5.0,Unfurnished,4.1,54.6
+GNW1238,Techzone-4,3,1474,1,10,7.0,Semi-Furnished,2.9,89.7
+GNW1239,Sector 4,3,1411,12,9,3.0,Unfurnished,1.2,91.56
+GNW1240,Sector 16B,3,1433,20,6,,Unfurnished,4.9,87.07
+GNW1241,Sector 1,3,1596,25,8,9.0,Furnished,4.5,100.45
+GNW1242,Sector 12,3,1370,16,11,6.0,Semi-Furnished,7.8,61.93
+GNW1243,Techzone-4,2,1074,2,7,10.0,Unfurnished,2.2,67.32
+GNW1244,Sector 12,2,907,6,9,10.0,Furnished,7.6,42.59
+GNW1245,Techzone-4,3,1439,6,11,5.0,Furnished,3.1,91.97
+GNW1246,Sector 4,2,979,20,9,7.0,Unfurnished,1.6,61.91
+GNW1247,Sector 1,1,564,15,4,10.0,Unfurnished,4.7,34.19
+GNW1248,Sector 12,2,1092,4,4,5.0,Unfurnished,8.1,46.43
+GNW1249,Sector 12,2,980,12,8,9.0,Semi-Furnished,7.1,47.81
+GNW1250,Gaur City 2,2,973,7,11,3.0,Semi-Furnished,5.0,54.82
+GNW1251,Gaur City 2,2,889,6,2,4.0,Semi-Furnished,5.3,53.94
+GNW1252,Gaur City 2,3,1658,16,3,7.0,Unfurnished,5.0,98.81
+GNW1253,Techzone-4,2,1128,6,4,9.0,Unfurnished,2.5,76.48
+GNW1254,Sector 1,3,1537,5,2,6.0,Furnished,2.6,106.01
+GNW1255,Sector 4,1,621,22,6,5.0,Semi-Furnished,2.6,42.75
+GNW1256,Gaur City 1,4,2368,3,8,10.0,Furnished,4.4,129.05
+GNW1257,Sector 16B,3,1322,19,7,5.0,Unfurnished,4.6,74.93
+GNW1258,Sector 12,3,1477,22,4,9.0,Furnished,8.3,77.79
+GNW1259,Sector 1,3,1363,14,9,4.0,Semi-Furnished,2.9,80.5
+GNW1260,Sector 1,4,2450,10,4,5.0,Semi-Furnished,4.7,140.39
+GNW1261,Sector 12,2,1034,22,1,5.0,Semi-Furnished,7.4,48.25
+GNW1262,Sector 16B,2,1115,7,9,4.0,Semi-Furnished,5.7,58.8
+GNW1263,Techzone-4,1,541,6,11,8.0,Semi-Furnished,3.7,32.32
+GNW1264,Sector 16B,3,1406,19,0,9.0,Furnished,5.2,90.44
+GNW1265,Sector 16B,3,1350,19,8,10.0,Unfurnished,5.7,76.96
+GNW1266,Sector 1,2,923,11,0,5.0,Semi-Furnished,4.1,52.33
+GNW1267,Sector 4,3,1296,12,1,6.0,Semi-Furnished,3.1,93.41
+GNW1268,Sector 1,2,1093,25,6,4.0,Furnished,4.1,64.68
+GNW1269,Gaur City 2,2,1098,5,3,4.0,Unfurnished,4.2,62.24
+GNW1270,Gaur City 1,1,647,1,1,7.0,Semi-Furnished,4.5,37.54
+GNW1271,Sector 1,3,1388,16,5,7.0,Semi-Furnished,3.7,88.7
+GNW1272,Gaur City 2,2,990,11,9,9.0,Unfurnished,5.9,57.38
+GNW1273,Techzone-4,2,1135,18,7,9.0,Unfurnished,3.2,72.18
+GNW1274,Sector 1,3,1347,17,10,3.0,Semi-Furnished,4.7,75.01
+GNW1275,Techzone-4,3,1450,16,1,7.0,Unfurnished,2.3,96.92
+GNW1276,Sector 10,1,586,19,5,3.0,Unfurnished,7.5,26.69
+GNW1277,Sector 16B,3,1596,6,10,9.0,Semi-Furnished,5.5,86.24
+GNW1278,Sector 10,3,1474,19,11,10.0,Semi-Furnished,6.3,79.36
+GNW1279,Sector 16B,1,531,13,8,6.0,Furnished,5.9,33.02
+GNW1280,Sector 4,2,1138,15,2,6.0,Unfurnished,2.5,80.9
+GNW1281,Gaur City 2,3,1492,19,8,3.0,Semi-Furnished,4.9,83.62
+GNW1282,Sector 4,3,1325,5,3,6.0,Unfurnished,2.6,82.47
+GNW1283,Sector 12,4,2466,13,1,9.0,Furnished,6.3,125.16
+GNW1284,Sector 12,2,936,18,3,8.0,Furnished,8.1,49.38
+GNW1285,Sector 10,3,1574,22,4,10.0,Unfurnished,7.4,79.11
+GNW1286,Gaur City 2,2,940,7,11,6.0,Furnished,5.4,54.3
+GNW1287,Sector 4,2,1041,14,0,7.0,Semi-Furnished,2.6,77.61
+GNW1288,Sector 12,2,1074,11,3,7.0,Unfurnished,6.6,49.03
+GNW1289,Gaur City 2,2,881,19,11,7.0,Unfurnished,5.4,47.45
+GNW1290,Techzone-4,2,1046,18,0,3.0,Semi-Furnished,2.9,74.51
+GNW1291,Gaur City 1,2,1005,16,2,6.0,Unfurnished,5.3,58.47
+GNW1292,Sector 12,1,628,14,2,7.0,Semi-Furnished,7.6,32.59
+GNW1293,Sector 4,3,1313,19,2,7.0,Furnished,1.4,105.87
+GNW1294,Sector 4,2,993,19,2,8.0,Unfurnished,2.2,72.17
+GNW1295,Gaur City 1,2,1013,17,2,7.0,Semi-Furnished,3.6,62.79
+GNW1296,Gaur City 1,2,880,16,7,,Unfurnished,4.2,45.49
+GNW1297,Gaur City 2,2,874,5,1,9.0,Furnished,5.6,59.56
+GNW1298,Sector 10,4,1910,13,11,7.0,Semi-Furnished,6.7,94.19
+GNW1299,Gaur City 1,4,2014,14,9,3.0,Furnished,5.2,94.71
+GNW1300,Sector 16B,3,1437,13,1,8.0,Unfurnished,6.1,80.58
+GNW1301,Sector 12,2,1066,13,6,5.0,Furnished,6.9,54.12
+GNW1302,Sector 4,2,902,19,5,7.0,Semi-Furnished,1.7,69.61
+GNW1303,Sector 4,2,909,22,9,4.0,Semi-Furnished,1.7,60.84
+GNW1304,Gaur City 1,4,2315,14,1,6.0,Semi-Furnished,4.0,134.1
+GNW1305,Gaur City 1,2,1076,19,1,5.0,Unfurnished,4.1,61.95
+GNW1306,Techzone-4,2,1102,21,11,5.0,Unfurnished,3.1,63.38
+GNW1307,Sector 12,2,931,4,2,8.0,Unfurnished,7.6,43.96
+GNW1308,Gaur City 2,2,982,14,6,5.0,Unfurnished,6.0,52.55
+GNW1309,Techzone-4,3,1591,3,4,3.0,Unfurnished,3.3,96.53
+GNW1310,Sector 1,2,1093,22,6,4.0,Unfurnished,4.1,59.44
+GNW1311,Sector 10,2,1071,3,1,9.0,Furnished,7.1,62.15
+GNW1312,Gaur City 2,2,1079,20,9,7.0,Furnished,6.3,63.75
+GNW1313,Sector 12,2,1137,14,6,4.0,Unfurnished,8.2,49.73
+GNW1314,Gaur City 1,3,1453,13,3,3.0,Furnished,4.9,83.7
+GNW1315,Sector 16B,4,2491,7,9,7.0,Unfurnished,5.8,137.2
+GNW1316,Sector 12,4,2201,25,3,10.0,Furnished,,122.69
+GNW1317,Sector 10,3,1638,10,3,7.0,Furnished,,92.28
+GNW1318,Gaur City 2,2,859,15,2,8.0,Unfurnished,4.4,55.08
+GNW1319,Sector 12,2,970,9,3,8.0,Semi-Furnished,6.7,46.86
+GNW1320,Gaur City 1,2,1021,2,10,6.0,Unfurnished,3.8,53.76
+GNW1321,Techzone-4,2,1053,19,4,4.0,Furnished,2.7,67.37
+GNW1322,Gaur City 2,3,1569,18,11,6.0,Unfurnished,5.2,84.95
+GNW1323,Techzone-4,2,984,16,4,3.0,Furnished,2.9,65.88
+GNW1324,Sector 4,2,882,9,3,9.0,Unfurnished,1.7,63.23
+GNW1325,Gaur City 1,2,1144,9,4,5.0,Unfurnished,4.7,58.53
+GNW1326,Techzone-4,4,2353,9,11,3.0,Semi-Furnished,2.6,142.34
+GNW1327,Sector 10,3,1580,22,5,10.0,Unfurnished,7.1,84.4
+GNW1328,Sector 1,4,2085,13,1,10.0,Semi-Furnished,3.0,136.25
+GNW1329,Sector 4,1,583,20,8,9.0,Semi-Furnished,1.9,40.3
+GNW1330,Sector 1,2,932,22,0,8.0,Unfurnished,4.3,57.92
+GNW1331,Sector 16B,3,1333,7,10,10.0,Unfurnished,5.8,73.83
+GNW1332,Gaur City 1,2,975,10,6,3.0,Unfurnished,4.2,51.31
+GNW1333,Gaur City 2,3,1684,7,8,10.0,Semi-Furnished,5.2,98.74
+GNW1334,Gaur City 2,3,1313,14,2,4.0,Semi-Furnished,4.9,80.42
+GNW1335,Sector 1,2,955,15,4,8.0,Unfurnished,3.4,60.45
+GNW1336,Gaur City 1,3,1280,8,3,3.0,Unfurnished,3.9,69.16
+GNW1337,Sector 12,2,928,9,1,7.0,Semi-Furnished,7.1,45.86
+GNW1338,Sector 12,4,1962,20,5,5.0,Semi-Furnished,7.9,97.17
+GNW1339,Sector 1,2,1025,24,7,10.0,Unfurnished,3.5,59.02
+GNW1340,Sector 12,2,974,14,10,9.0,Semi-Furnished,7.8,46.43
+GNW1341,Techzone-4,3,1296,9,7,8.0,Unfurnished,2.4,77.06
+GNW1342,Sector 16B,2,1112,22,3,10.0,Semi-Furnished,5.9,68.33
+GNW1343,Techzone-4,2,1013,7,7,6.0,Unfurnished,2.9,62.34
+GNW1344,Techzone-4,2,966,18,6,10.0,Unfurnished,3.4,66.69
+GNW1345,Sector 1,3,1305,23,10,9.0,Unfurnished,3.7,76.95
+GNW1346,Sector 10,2,1146,1,1,6.0,Unfurnished,7.0,56.77
+GNW1347,Sector 10,3,1625,22,7,8.0,Semi-Furnished,7.1,80.88
+GNW1348,Sector 10,1,623,3,6,8.0,Furnished,7.2,33.06
+GNW1349,Gaur City 2,2,1119,9,8,8.0,Unfurnished,4.4,64.89
+GNW1350,Sector 12,2,1079,7,3,4.0,Semi-Furnished,6.7,53.38
+GNW1351,Sector 4,2,1058,1,0,8.0,Unfurnished,,78.26
+GNW1352,Sector 4,3,1676,6,5,4.0,Unfurnished,1.8,111.06
+GNW1353,Sector 16B,2,937,15,7,10.0,Furnished,5.0,60.6
+GNW1354,Gaur City 1,2,904,4,3,5.0,Semi-Furnished,3.4,50.52
+GNW1355,Gaur City 2,1,640,2,0,6.0,Unfurnished,5.1,33.78
+GNW1356,Techzone-4,2,912,4,6,6.0,Semi-Furnished,3.0,60.99
+GNW1357,Sector 16B,2,1070,11,1,8.0,Furnished,6.9,71.42
+GNW1358,Sector 12,2,870,18,0,7.0,Unfurnished,8.2,44.1
+GNW1359,Sector 12,3,1568,21,0,3.0,Unfurnished,7.2,71.78
+GNW1360,Sector 12,3,1355,20,5,5.0,Semi-Furnished,7.5,67.74
+GNW1361,Sector 1,2,1021,21,11,3.0,Semi-Furnished,4.0,56.58
+GNW1362,Sector 4,2,1055,21,5,3.0,Semi-Furnished,2.8,75.09
+GNW1363,Techzone-4,2,1079,7,10,5.0,Unfurnished,1.7,68.36
+GNW1364,Sector 10,3,1310,25,10,3.0,Unfurnished,7.0,57.73
+GNW1365,Gaur City 2,3,1329,25,3,3.0,Semi-Furnished,5.5,84.64
+GNW1366,Techzone-4,2,1076,15,0,5.0,Furnished,2.9,76.14
+GNW1367,Sector 10,2,967,14,7,7.0,Semi-Furnished,7.0,49.46
+GNW1368,Sector 16B,2,1091,14,6,8.0,Unfurnished,6.4,66.34
+GNW1369,Techzone-4,4,2199,11,2,7.0,Semi-Furnished,3.9,156.63
+GNW1370,Sector 4,1,555,22,11,9.0,Unfurnished,2.4,38.72
+GNW1371,Gaur City 1,4,2457,19,1,3.0,Semi-Furnished,4.5,140.79
+GNW1372,Gaur City 1,3,1622,22,7,6.0,Semi-Furnished,4.1,85.1
+GNW1373,Techzone-4,3,1435,11,8,9.0,Furnished,3.4,91.36
+GNW1374,Sector 12,2,1011,21,6,3.0,Unfurnished,7.1,45.97
+GNW1375,Gaur City 1,3,1529,19,2,8.0,Semi-Furnished,4.0,87.05
+GNW1376,Gaur City 1,3,1372,25,10,7.0,Unfurnished,5.4,65.69
+GNW1377,Sector 12,3,1654,21,4,7.0,Semi-Furnished,7.1,84.13
+GNW1378,Sector 1,3,1638,10,6,5.0,Unfurnished,4.1,95.85
+GNW1379,Techzone-4,2,1125,24,4,7.0,Unfurnished,2.1,78.38
+GNW1380,Gaur City 1,2,1094,21,9,9.0,Unfurnished,3.5,57.93
+GNW1381,Sector 1,2,907,2,11,10.0,Furnished,4.3,51.2
+GNW1382,Sector 12,3,1345,17,5,4.0,Semi-Furnished,8.0,64.61
+GNW1383,Gaur City 1,2,1103,2,7,10.0,Furnished,4.3,64.8
+GNW1384,Sector 4,2,988,22,1,,Unfurnished,1.7,69.96
+GNW1385,Gaur City 1,2,1124,14,11,4.0,Unfurnished,5.3,56.41
+GNW1386,Sector 1,4,2275,11,1,10.0,Furnished,3.5,156.83
+GNW1387,Sector 4,3,1527,16,6,8.0,Unfurnished,3.6,99.36
+GNW1388,Gaur City 2,2,1084,9,0,9.0,Semi-Furnished,5.5,75.12
+GNW1389,Sector 10,2,891,14,10,6.0,Furnished,,46.46
+GNW1390,Sector 4,3,1382,7,5,3.0,Furnished,2.2,100.76
+GNW1391,Sector 12,1,497,7,3,6.0,Unfurnished,8.2,23.51
+GNW1392,Gaur City 1,3,1586,17,7,5.0,Unfurnished,5.5,83.07
+GNW1393,Sector 16B,4,2126,1,7,7.0,Semi-Furnished,6.4,121.56
+GNW1394,Gaur City 2,3,1528,21,10,10.0,Furnished,4.9,89.58
+GNW1395,Gaur City 1,1,594,5,4,3.0,Unfurnished,5.1,29.84
+GNW1396,Gaur City 2,2,985,22,9,8.0,Semi-Furnished,5.6,56.49
+GNW1397,Sector 4,2,961,11,11,10.0,Furnished,2.7,66.85
+GNW1398,Sector 10,3,1455,13,0,3.0,Semi-Furnished,6.0,78.98
+GNW1399,Gaur City 2,2,940,23,11,9.0,Semi-Furnished,5.2,54.68
+GNW1400,Gaur City 2,2,998,10,10,7.0,Furnished,5.0,63.08
+GNW1401,Sector 1,2,1025,24,10,7.0,Unfurnished,4.3,52.51
+GNW1402,Gaur City 1,2,936,25,0,7.0,Furnished,4.5,60.23
+GNW1403,Sector 16B,2,922,12,7,4.0,Furnished,4.9,56.98
+GNW1404,Sector 1,3,1591,8,10,5.0,Furnished,4.8,91.08
+GNW1405,Techzone-4,3,1326,22,0,10.0,Unfurnished,3.4,87.9
+GNW1406,Gaur City 1,4,2171,6,4,6.0,Unfurnished,4.2,124.55
+GNW1407,Sector 10,2,1123,10,6,4.0,Semi-Furnished,6.4,55.17
+GNW1408,Sector 10,3,1281,10,5,5.0,Unfurnished,6.8,57.4
+GNW1409,Sector 10,3,1351,13,1,6.0,Furnished,8.0,71.72
+GNW1410,Sector 12,3,1610,7,1,3.0,Unfurnished,8.3,76.53
+GNW1411,Sector 10,3,1326,7,5,7.0,Furnished,7.0,70.12
+GNW1412,Gaur City 2,3,1694,5,1,9.0,Unfurnished,4.9,108.53
+GNW1413,Sector 1,3,1552,14,0,6.0,Furnished,3.4,110.19
+GNW1414,Sector 10,2,1117,9,2,7.0,Furnished,6.4,57.46
+GNW1415,Sector 12,3,1682,6,3,7.0,Furnished,7.7,81.25
+GNW1416,Sector 10,3,1480,7,4,8.0,Unfurnished,6.1,74.16
+GNW1417,Sector 16B,2,897,10,6,10.0,Unfurnished,5.1,54.66
+GNW1418,Gaur City 1,2,950,15,5,9.0,Semi-Furnished,5.4,56.3
+GNW1419,Gaur City 2,2,940,22,6,4.0,Semi-Furnished,5.6,53.65
+GNW1420,Gaur City 2,2,911,20,5,10.0,Unfurnished,3.9,54.67
+GNW1421,Gaur City 1,2,1020,23,4,9.0,Furnished,5.1,63.82
+GNW1422,Sector 10,3,1486,19,11,7.0,Unfurnished,7.5,71.85
+GNW1423,Gaur City 1,2,876,17,0,9.0,Furnished,4.7,56.38
+GNW1424,Gaur City 2,1,627,6,9,7.0,Semi-Furnished,5.0,36.42
+GNW1425,Techzone-4,2,992,3,9,3.0,Semi-Furnished,3.8,54.04
+GNW1426,Sector 1,3,1561,18,6,7.0,Unfurnished,5.1,84.66
+GNW1427,Sector 4,3,1350,25,9,9.0,Semi-Furnished,2.5,92.72
+GNW1428,Sector 10,3,1555,9,11,3.0,Unfurnished,7.4,65.09
+GNW1429,Sector 16B,2,1041,9,6,8.0,Unfurnished,5.2,59.63
+GNW1430,Gaur City 2,3,1642,11,0,6.0,Semi-Furnished,5.1,110.03
+GNW1431,Gaur City 1,2,882,24,9,5.0,Semi-Furnished,5.0,45.62
+GNW1432,Sector 4,3,1691,2,5,4.0,Furnished,1.4,127.18
+GNW1433,Gaur City 2,2,1013,12,2,9.0,Semi-Furnished,4.9,65.93
+GNW1434,Sector 16B,2,931,16,0,4.0,Unfurnished,4.9,59.42
+GNW1435,Sector 1,2,961,15,10,4.0,Unfurnished,4.1,51.4
+GNW1436,Sector 10,2,964,8,9,6.0,Semi-Furnished,6.5,45.85
+GNW1437,Techzone-4,2,909,19,0,6.0,Unfurnished,2.8,63.53
+GNW1438,Sector 10,2,881,21,1,9.0,Semi-Furnished,6.5,49.87
+GNW1439,Sector 16B,3,1650,12,0,3.0,Unfurnished,5.2,94.28
+GNW1440,Gaur City 1,2,932,9,6,7.0,Unfurnished,3.6,52.62
+GNW1441,Gaur City 1,2,990,14,3,4.0,Unfurnished,,51.43
+GNW1442,Sector 12,2,888,23,11,7.0,Semi-Furnished,9.0,37.63
+GNW1443,Sector 10,4,2142,6,10,7.0,Unfurnished,6.9,100.85
+GNW1444,Techzone-4,4,1989,13,4,8.0,Furnished,3.3,145.74
+GNW1445,Sector 12,3,1525,18,10,4.0,Semi-Furnished,8.0,69.41
+GNW1446,Techzone-4,2,896,7,10,10.0,Semi-Furnished,3.9,56.76
+GNW1447,Gaur City 1,2,886,17,7,3.0,Semi-Furnished,4.9,45.72
+GNW1448,Sector 16B,3,1414,13,7,7.0,Semi-Furnished,5.5,85.23
+GNW1449,Gaur City 2,2,1071,9,8,3.0,Unfurnished,5.1,52.63
+GNW1450,Sector 1,3,1350,25,2,8.0,Unfurnished,4.5,85.09
+GNW1451,Techzone-4,4,2289,22,11,4.0,Semi-Furnished,3.1,136.6
+GNW1452,Sector 1,2,1005,18,1,7.0,Unfurnished,3.6,60.81
+GNW1453,Gaur City 1,4,2446,3,8,7.0,Unfurnished,4.0,131.68
+GNW1454,Sector 1,3,1377,25,2,5.0,Semi-Furnished,4.0,89.22
+GNW1455,Sector 16B,3,1430,21,2,8.0,Semi-Furnished,6.6,89.01
+GNW1456,Gaur City 2,2,1034,19,1,8.0,Unfurnished,4.4,68.69
+GNW1457,Sector 10,3,1669,5,2,7.0,Semi-Furnished,6.6,91.26
+GNW1458,Sector 4,3,1497,2,5,9.0,Unfurnished,3.0,105.3
+GNW1459,Sector 12,3,1538,15,5,4.0,Semi-Furnished,8.4,69.84
+GNW1460,Sector 12,2,1026,9,0,9.0,Unfurnished,7.4,51.71
+GNW1461,Sector 1,3,1487,7,10,8.0,Furnished,3.3,91.97
+GNW1462,Sector 16B,2,920,9,8,7.0,Semi-Furnished,5.8,52.89
+GNW1463,Sector 16B,2,1104,22,0,7.0,Unfurnished,5.7,65.91
+GNW1464,Techzone-4,2,926,4,11,4.0,Semi-Furnished,3.0,56.71
+GNW1465,Sector 12,3,1654,10,2,10.0,Semi-Furnished,7.7,82.09
+GNW1466,Techzone-4,4,2285,20,2,4.0,Unfurnished,2.9,150.3
+GNW1467,Sector 4,3,1639,13,5,7.0,Unfurnished,3.5,111.07
+GNW1468,Gaur City 2,2,1029,4,2,4.0,Unfurnished,4.7,58.03
+GNW1469,Sector 4,2,892,19,0,6.0,Unfurnished,3.2,65.1
+GNW1470,Sector 10,3,1575,1,10,8.0,Semi-Furnished,7.6,73.41
+GNW1471,Techzone-4,2,917,3,2,8.0,Semi-Furnished,3.1,65.15
+GNW1472,Sector 4,2,911,19,6,9.0,Furnished,2.2,63.19
+GNW1473,Sector 4,4,1977,12,10,3.0,Unfurnished,,121.19
+GNW1474,Sector 4,2,1135,2,11,8.0,Semi-Furnished,2.8,69.56
+GNW1475,Sector 1,3,1447,5,0,,Unfurnished,3.9,87.94
+GNW1476,Sector 10,2,1046,12,7,4.0,Semi-Furnished,7.1,50.05
+GNW1477,Gaur City 2,2,1125,9,9,5.0,Semi-Furnished,5.6,61.0
+GNW1478,Techzone-4,2,1012,16,8,8.0,Unfurnished,2.7,62.95
+GNW1479,Sector 4,1,504,19,6,9.0,Furnished,2.6,37.37
+GNW1480,Gaur City 1,2,962,15,2,6.0,Unfurnished,5.0,54.52
+GNW1481,Sector 4,3,1280,18,1,9.0,Unfurnished,2.5,87.8
+GNW1482,Techzone-4,2,956,10,2,6.0,Unfurnished,2.7,61.89
+GNW1483,Techzone-4,2,1082,25,1,10.0,Unfurnished,3.6,79.28
+GNW1484,Gaur City 1,2,1057,2,2,7.0,Semi-Furnished,5.3,58.29
+GNW1485,Gaur City 1,3,1501,25,5,8.0,Unfurnished,5.0,86.98
+GNW1486,Sector 12,3,1251,16,11,9.0,Semi-Furnished,7.0,59.11
+GNW1487,Techzone-4,2,1131,19,1,9.0,Unfurnished,3.4,76.25
+GNW1488,Sector 10,3,1262,13,8,4.0,Unfurnished,7.4,59.34
+GNW1489,Sector 12,2,1020,24,6,9.0,Furnished,7.1,53.36
+GNW1490,Sector 10,2,1128,3,0,4.0,Unfurnished,,59.29
+GNW1491,Gaur City 1,3,1686,20,11,7.0,Unfurnished,6.3,83.37
+GNW1492,Sector 1,2,934,21,3,7.0,Semi-Furnished,5.1,58.0
+GNW1493,Sector 1,3,1691,17,5,4.0,Semi-Furnished,3.6,97.6
+GNW1494,Gaur City 2,3,1300,10,1,7.0,Unfurnished,5.3,81.61
+GNW1495,Gaur City 2,2,1065,9,7,10.0,Semi-Furnished,4.6,63.96
+GNW1496,Gaur City 2,3,1301,8,4,5.0,Furnished,5.5,74.98
+GNW1497,Sector 1,3,1436,7,11,6.0,Unfurnished,3.4,72.25
+GNW1498,Sector 1,3,1388,5,0,3.0,Semi-Furnished,3.6,82.73
+GNW1499,Gaur City 1,2,869,6,5,4.0,Semi-Furnished,3.8,47.47
+GNW1500,Sector 4,3,1681,5,7,8.0,Semi-Furnished,2.2,121.41
+GNW1501,Sector 12,3,1313,9,11,3.0,Semi-Furnished,7.8,56.06
+GNW1502,Gaur City 1,2,878,21,7,3.0,Unfurnished,3.9,47.66
+GNW1503,Sector 12,2,1036,19,8,7.0,Semi-Furnished,8.1,50.87
+GNW1504,Techzone-4,2,1076,22,5,4.0,Furnished,2.5,73.43
+GNW1505,Gaur City 1,4,1950,18,4,3.0,Unfurnished,4.2,111.12
+GNW1506,Techzone-4,4,1942,21,11,7.0,Semi-Furnished,3.4,125.87
+GNW1507,Sector 10,3,1640,3,1,3.0,Unfurnished,7.2,80.33
+GNW1508,Sector 1,3,1568,14,7,4.0,Unfurnished,4.7,85.59
+GNW1509,Sector 1,2,870,24,5,5.0,Unfurnished,3.6,53.76
+GNW1510,Gaur City 2,3,1408,15,10,9.0,Semi-Furnished,6.0,81.34
+GNW1511,Techzone-4,2,907,3,8,7.0,Semi-Furnished,2.5,60.24
+GNW1512,Sector 4,2,1082,23,0,7.0,Unfurnished,3.1,71.33
+GNW1513,Gaur City 1,2,1019,15,11,6.0,Semi-Furnished,4.2,57.15
+GNW1514,Gaur City 2,3,1405,22,7,4.0,Unfurnished,4.4,79.4
+GNW1515,Techzone-4,2,961,12,0,10.0,Unfurnished,3.4,68.69
+GNW1516,Techzone-4,2,1002,16,0,8.0,Semi-Furnished,3.6,74.69
+GNW1517,Sector 4,3,1467,24,7,7.0,Unfurnished,1.9,97.8
+GNW1518,Sector 4,2,1133,4,3,10.0,Semi-Furnished,3.0,81.89
+GNW1519,Gaur City 2,3,1638,24,10,3.0,Unfurnished,4.8,88.88
+GNW1520,Sector 1,3,1280,12,6,6.0,Furnished,3.6,78.66
+GNW1521,Sector 4,2,1112,13,8,3.0,Semi-Furnished,2.5,71.87
+GNW1522,Sector 10,2,866,16,2,6.0,Semi-Furnished,7.5,48.8
+GNW1523,Sector 10,3,1474,9,3,8.0,Unfurnished,7.1,76.63
+GNW1524,Sector 12,3,1288,18,11,6.0,Semi-Furnished,7.3,51.61
+GNW1525,Sector 1,2,1074,2,1,7.0,Unfurnished,4.1,63.54
+GNW1526,Sector 10,2,1028,20,2,3.0,Unfurnished,7.0,50.2
+GNW1527,Gaur City 1,3,1564,19,3,5.0,Furnished,3.6,92.9
+GNW1528,Sector 12,1,450,4,11,8.0,Furnished,7.3,21.01
+GNW1529,Sector 1,3,1365,12,5,9.0,Unfurnished,4.3,81.17
+GNW1530,Gaur City 1,3,1606,10,3,6.0,Furnished,4.0,92.69
+GNW1531,Techzone-4,3,1460,11,4,7.0,Unfurnished,1.9,95.0
+GNW1532,Gaur City 2,3,1669,8,5,5.0,Furnished,4.3,107.52
+GNW1533,Sector 12,3,1348,17,3,8.0,Unfurnished,7.5,59.61
+GNW1534,Sector 10,2,1033,15,9,4.0,Semi-Furnished,7.1,51.27
+GNW1535,Sector 12,2,1140,15,4,3.0,Semi-Furnished,8.1,50.81
+GNW1536,Sector 12,3,1473,16,8,6.0,Furnished,8.0,65.83
+GNW1537,Techzone-4,4,2167,23,10,9.0,Semi-Furnished,3.3,137.06
+GNW1538,Sector 1,3,1594,16,10,9.0,Unfurnished,4.0,89.26
+GNW1539,Gaur City 1,2,1129,4,4,9.0,Semi-Furnished,4.2,65.57
+GNW1540,Gaur City 1,2,992,16,8,5.0,Unfurnished,4.0,52.8
+GNW1541,Sector 1,2,952,23,8,7.0,Furnished,3.2,56.23
+GNW1542,Sector 12,2,991,25,11,4.0,Furnished,,45.83
+GNW1543,Gaur City 1,2,894,13,3,5.0,Semi-Furnished,3.7,53.23
+GNW1544,Sector 10,3,1530,14,8,7.0,Furnished,7.5,81.99
+GNW1545,Sector 10,3,1603,22,0,6.0,Furnished,7.2,90.69
+GNW1546,Sector 4,2,892,23,5,5.0,Unfurnished,3.4,58.84
+GNW1547,Techzone-4,3,1319,2,0,9.0,Semi-Furnished,2.9,98.25
+GNW1548,Sector 16B,3,1661,25,4,3.0,Semi-Furnished,5.8,98.69
+GNW1549,Sector 16B,2,918,21,5,3.0,Unfurnished,6.1,51.17
+GNW1550,Gaur City 2,2,981,7,1,3.0,Unfurnished,4.6,57.71
+GNW1551,Sector 10,2,924,7,7,4.0,Unfurnished,7.2,40.2
+GNW1552,Sector 10,3,1526,23,7,7.0,Unfurnished,7.2,75.8
+GNW1553,Sector 12,4,2204,16,2,5.0,Semi-Furnished,7.0,110.25
+GNW1554,Techzone-4,3,1502,6,8,10.0,Unfurnished,4.0,97.45
+GNW1555,Sector 12,3,1598,11,5,7.0,Unfurnished,8.1,68.12
+GNW1556,Techzone-4,3,1612,17,3,,Furnished,2.5,121.81
+GNW1557,Gaur City 1,3,1375,9,2,6.0,Unfurnished,5.5,77.41
+GNW1558,Sector 4,2,913,14,2,9.0,Unfurnished,2.7,65.9
+GNW1559,Techzone-4,1,494,6,10,10.0,Furnished,3.3,31.07
+GNW1560,Techzone-4,2,975,9,1,10.0,Semi-Furnished,4.2,66.01
+GNW1561,Sector 16B,2,861,9,11,9.0,Furnished,6.3,53.62
+GNW1562,Techzone-4,1,505,2,8,3.0,Unfurnished,1.9,31.32
+GNW1563,Gaur City 2,2,1028,9,4,10.0,Semi-Furnished,5.0,68.02
+GNW1564,Gaur City 2,2,1030,20,6,4.0,Unfurnished,4.5,57.94
+GNW1565,Sector 1,1,457,11,8,10.0,Unfurnished,4.5,27.64
+GNW1566,Sector 10,2,868,17,3,4.0,Unfurnished,6.5,45.15
+GNW1567,Sector 12,3,1680,25,6,9.0,Furnished,8.2,86.94
+GNW1568,Sector 16B,4,2381,15,5,4.0,Semi-Furnished,4.7,139.9
+GNW1569,Sector 12,3,1600,20,10,10.0,Unfurnished,8.5,71.4
+GNW1570,Sector 10,4,2461,12,6,8.0,Unfurnished,7.8,120.65
+GNW1571,Sector 10,3,1681,20,9,6.0,Unfurnished,7.4,79.85
+GNW1572,Sector 1,2,1003,3,8,4.0,Furnished,4.2,56.21
+GNW1573,Techzone-4,2,1073,13,9,6.0,Semi-Furnished,2.3,64.12
+GNW1574,Sector 16B,2,928,1,11,4.0,Furnished,4.7,55.13
+GNW1575,Gaur City 2,2,1090,2,5,9.0,Semi-Furnished,4.6,68.88
+GNW1576,Techzone-4,4,2278,10,11,6.0,Furnished,3.3,159.52
+GNW1577,Sector 12,3,1528,2,9,9.0,Furnished,6.7,77.5
+GNW1578,Techzone-4,2,1129,9,6,8.0,Furnished,3.0,75.25
+GNW1579,Sector 4,3,1256,6,8,5.0,Unfurnished,2.4,81.31
+GNW1580,Gaur City 1,3,1543,13,9,8.0,Unfurnished,4.5,79.52
+GNW1581,Sector 16B,2,1001,5,3,3.0,Unfurnished,5.7,55.19
+GNW1582,Sector 10,3,1671,24,6,9.0,Semi-Furnished,7.1,90.16
+GNW1583,Gaur City 2,2,1147,11,0,5.0,Semi-Furnished,6.7,69.6
+GNW1584,Sector 16B,3,1532,14,0,7.0,Semi-Furnished,5.2,92.37
+GNW1585,Sector 12,4,2281,16,7,6.0,Semi-Furnished,7.3,100.44
+GNW1586,Techzone-4,2,937,18,8,10.0,Semi-Furnished,2.9,65.45
+GNW1587,Gaur City 1,3,1481,17,0,7.0,Furnished,4.4,89.26
+GNW1588,Sector 12,2,1061,2,3,7.0,Unfurnished,7.9,48.43
+GNW1589,Sector 16B,3,1368,6,4,9.0,Unfurnished,6.0,78.38
+GNW1590,Gaur City 1,1,543,23,8,3.0,Furnished,4.0,30.73
+GNW1591,Techzone-4,2,899,16,8,6.0,Unfurnished,2.4,59.46
+GNW1592,Sector 1,4,1971,17,4,4.0,Furnished,3.7,120.77
+GNW1593,Gaur City 1,3,1485,23,5,8.0,Semi-Furnished,4.4,81.06
+GNW1594,Gaur City 1,4,2409,11,3,7.0,Semi-Furnished,4.4,142.5
+GNW1595,Gaur City 2,4,2469,16,8,5.0,Unfurnished,4.9,141.77
+GNW1596,Sector 16B,3,1314,19,8,4.0,Unfurnished,5.2,69.65
+GNW1597,Sector 10,3,1487,14,8,9.0,Semi-Furnished,7.6,79.18
+GNW1598,Techzone-4,2,965,5,3,6.0,Semi-Furnished,3.1,64.67
+GNW1599,Sector 10,2,1109,22,2,5.0,Furnished,6.5,64.72
